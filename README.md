@@ -1,5 +1,10 @@
 ### Hi there 👋
-<a href="https://velog.io/@b612_boreum"><img src="https://img.shields.io/badge/FF69B4?style=flat-square&logo=simpleicons#20C997&logoColor=white&link=https://velog.io/@b612_boreum"/></a>&nbsp
+
+<a href="https://velog.io/@b612_boreum">
+    <img 
+        src="http://img.shields.io/badge/-FFC0CB?style=flat&logo=Vector Logo Zone&link=https://velog.io/@b612_boreum"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Jiii&show_icons=true&theme=radical)
 
