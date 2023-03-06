@@ -5,6 +5,11 @@
         src="http://img.shields.io/badge/-FFC0CB?style=flat&logo=Vector Logo Zone&link=https://velog.io/@b612_boreum"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://b612boreum.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-000000?style=flat&logo=Vector Logo Zone&link=https://b612boreum.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Jiii&show_icons=true&theme=radical)
 
