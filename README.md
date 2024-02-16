@@ -11,7 +11,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Jiii&show_icons=true&theme=radical)
 
 <!--
 **Hyun-Jiii/Hyun-Jiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
